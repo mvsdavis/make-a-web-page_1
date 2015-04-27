@@ -1,0 +1,51 @@
+body {
+	font-family: arial;
+	max-width: 700px;
+	margin: 0 auto;
+	}
+
+* element.style {display: flex
+}
+
+h1{
+	text-align: center;
+	color: darkblue;
+}
+
+h2{
+	text-align: left;
+	color: darkblue;
+	font-size: 20pt;
+}
+
+h3{
+	text-indent: 10px;
+	font-size: 14pt
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+.lesson{
+	display: flex;
+	background-color: lightblue;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+	margin: 10px auto;
+	text-align: left;
+}
+
+.info{
+	display: inline-block;
+	background-color: lightgray;
+	border-radius: 10px;
+	color: black;
+	padding: 5px;
+	margin: 5px auto;
+}
+
